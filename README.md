@@ -1,6 +1,6 @@
 # RCOM_project2
 
-Project developed in the RCOM course classes (Y3S1) at the Faculty of Engineering of the University of Porto (FEUP)
+#### Project developed in the RCOM course classes (Y3S1) at the Faculty of Engineering of the University of Porto (FEUP)
 
 Members:
 
